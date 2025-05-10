@@ -5,3 +5,4 @@ dump https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/dump.txt
 dump2 https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/dump2.php
 info https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/info.txt
 izinver https://raw.githubusercontent.com/necessaryfor/all/refs/heads/main/izinver.txt
+virs https://raw.githubusercontent.com/mekote/sil/refs/heads/main/yeah2.php
